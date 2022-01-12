@@ -5,15 +5,15 @@
     "passes": 9,
     "pending": 0,
     "failures": 0,
-    "start": "2021-12-08T18:50:43.426Z",
-    "end": "2021-12-08T18:50:43.572Z",
-    "duration": 146
+    "start": "2022-01-12T15:12:36.739Z",
+    "end": "2022-01-12T15:12:36.977Z",
+    "duration": 238
   },
   "tests": [
     {
       "title": "is assigned an initial value of [\"Milo\", \"Otis\", \"Garfield\"]",
       "fullTitle": "index.js cats is assigned an initial value of [\"Milo\", \"Otis\", \"Garfield\"]",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -34,7 +34,7 @@
     {
       "title": "removes the last cat from the cats array",
       "fullTitle": "index.js Array functions destructivelyRemoveLastCat() removes the last cat from the cats array",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -80,7 +80,7 @@
     {
       "title": "is assigned an initial value of [\"Milo\", \"Otis\", \"Garfield\"]",
       "fullTitle": "index.js cats is assigned an initial value of [\"Milo\", \"Otis\", \"Garfield\"]",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -101,7 +101,7 @@
     {
       "title": "removes the last cat from the cats array",
       "fullTitle": "index.js Array functions destructivelyRemoveLastCat() removes the last cat from the cats array",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
